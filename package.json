@@ -1,0 +1,7 @@
+{
+  "name": "ocab-alpha",
+  "private": true,
+  "description": "Ocab Alpha (styring) og Ocab Arbejdsordre (sanitørens app) med fælles server og database",
+  "workspaces": ["server"],
+  "engines": { "node": ">=22.6" }
+}
